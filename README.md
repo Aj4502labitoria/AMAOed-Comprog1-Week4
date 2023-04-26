@@ -1,2 +1,2 @@
-# AMAOed-Comprog1-Week4
+# AMAOed-CompProg1-Week4
 First C++
